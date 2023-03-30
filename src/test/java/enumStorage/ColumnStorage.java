@@ -27,7 +27,7 @@ public enum ColumnStorage {
     TYPE("Type"),
     TICK_SIZE("Tick size");
 
-    private final String columnName;
+    private String columnName;
 
     ColumnStorage(String column) {
         this.columnName = column;
