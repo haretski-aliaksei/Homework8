@@ -2,8 +2,7 @@ package enums;
 
 public enum Credentials {
     LOGIN("selenium_chrome"),
-    PASSWORD("Axa@Demo"),
-    INCORRECT_LOGIN("incorrectLogin");
+    PASSWORD("Axa@Demo");
 
     private String credential;
 
