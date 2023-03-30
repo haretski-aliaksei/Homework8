@@ -6,7 +6,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static com.codeborne.selenide.Condition.visible;
-import static helpers.LoginHelper.*;
+import static helpers.LoginPageHelper.*;
 import static helpers.CommonHelper.*;
 
 public class LoginTests {
