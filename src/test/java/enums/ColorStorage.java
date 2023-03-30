@@ -1,4 +1,4 @@
-package enumStorage;
+package enums;
 
 public enum ColorStorage {
     RED("rgba(239, 79, 78, 1)"),

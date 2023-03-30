@@ -1,4 +1,4 @@
-package enumStorage;
+package enums;
 
 public enum ColumnStorage {
     AVG_FILL_PRICE("Avg fill price"),
